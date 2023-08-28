@@ -1,1 +1,1 @@
-gym :none
+gym :lean pysique
