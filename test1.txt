@@ -1,1 +1,1 @@
-gym :lean pysique
+gym: lean physique
